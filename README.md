@@ -1,5 +1,4 @@
-# API de cursos (titulo h1)
-
+# API de cursos
 API para gerneciamento de **professores** e **cursos**
 
 ## Tecnologias
